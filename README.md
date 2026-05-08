@@ -1,6 +1,6 @@
-# RepoDigest
+# Github-repo-extractor-
 
-RepoD extractor is a high-performance source code extraction engine that instantly converts any GitHub repository into a single, LLM-ready text file. It provides a complete project structure along with all textual file contents, making it perfect for feeding context into Large Language Models (LLMs), conducting code audits, or generating comprehensive documentation.
+Github-repo-extractor- is a high-performance source code extraction engine that instantly converts any GitHub repository into a single, LLM-ready text file. It provides a complete project structure along with all textual file contents, making it perfect for feeding context into Large Language Models (LLMs), conducting code audits, or generating comprehensive documentation.
 
 ## ✨ Features
 
@@ -23,8 +23,8 @@ RepoD extractor is a high-performance source code extraction engine that instant
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/repo-digest.git
-   cd repo-digest
+   git clone https://github.com/djnightmare9909/Github-repo-extractor-.git
+   cd Github-repo-extractor-
    ```
 
 2. **Install dependencies:**

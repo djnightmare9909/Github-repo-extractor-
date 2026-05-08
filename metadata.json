@@ -1,0 +1,6 @@
+{
+  "name": "RepoDigest",
+  "description": "Instantly convert any GitHub repository into a single, LLM-ready text file containing the full project structure and code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

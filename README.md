@@ -1,6 +1,6 @@
 # RepoDigest
 
-RepoDigest is a high-performance source code extraction engine that instantly converts any GitHub repository into a single, LLM-ready text file. It provides a complete project structure along with all textual file contents, making it perfect for feeding context into Large Language Models (LLMs), conducting code audits, or generating comprehensive documentation.
+RepoD extractor is a high-performance source code extraction engine that instantly converts any GitHub repository into a single, LLM-ready text file. It provides a complete project structure along with all textual file contents, making it perfect for feeding context into Large Language Models (LLMs), conducting code audits, or generating comprehensive documentation.
 
 ## ✨ Features
 
